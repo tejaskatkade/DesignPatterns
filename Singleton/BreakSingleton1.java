@@ -1,3 +1,4 @@
+package singleton;
 import java.lang.reflect.Constructor;
 
 public class BreakSingleton1 {

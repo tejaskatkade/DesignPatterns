@@ -1,3 +1,4 @@
+package singleton;
 // way 3 - use of clone() method
 // The object to be clone needs to be cloneable
 

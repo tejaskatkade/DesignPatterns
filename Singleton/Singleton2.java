@@ -1,3 +1,4 @@
+package singleton;
 public class Singleton2 {
     private static Singleton2 singleton;
     private Singleton2(){

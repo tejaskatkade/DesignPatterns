@@ -1,3 +1,4 @@
+package singleton;
 public class Singleton {
     public static void main(String[] args) throws Exception {
         System.out.println("Singleton Design Pattern");

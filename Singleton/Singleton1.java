@@ -1,3 +1,4 @@
+package singleton;
 import java.io.Serializable;
 
 public class Singleton1 implements Serializable, Cloneable{
