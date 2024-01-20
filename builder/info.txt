@@ -1,0 +1,14 @@
+In factory design pattern while creating object when object contais many attributes then there are many problems.
+    1)  This problem is due to passing many parameters in constructor
+    2)  If some parameters are optional then need to create            multiple constructor
+    3) Factory class takes all responsibility for creating object. Then all complexity is of factory class.
+
+so in Builder object is created step by step and finally return final object with desired values of attributes.
+
+Helpful in creating Immutable object
+
+note: in way_1 and way_2 there is no such  difference
+way_1 : Object is create in client class.
+way_2 : using static method to create object
+
+

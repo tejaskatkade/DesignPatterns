@@ -1,0 +1,11 @@
+Prototype Design Pattern
+A Creational design pattern
+
+If you are creating a object and while creating that object a complex logic is executing
+so creating that object again and again is costly
+
+Insted do not create object that object from scrach
+we can use clonning
+
+So the concept is to copy the existing object rather than creating new instance from scrach
+This approach saves costly resources and time, especially when object creation is heavy process.

@@ -1,6 +1,6 @@
 package abstractfactory;
 
-public class webDevFactory extends EmpAbstractFactory {
+public class WebDevFactory extends EmpAbstractFactory {
 
     @Override
     public Employee creatEmployee() {

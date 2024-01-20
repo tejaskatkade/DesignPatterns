@@ -1,0 +1,6 @@
+Observer Design patter
+It is a behavioural Design patter 
+Focus on intraction between two objects
+
+In this when subject changes the state all its dependent objects notified the changes
+one to many relation
