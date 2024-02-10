@@ -1,4 +1,4 @@
-package observer;
+package observer1;
 
 
 public class Subscribers implements Observer {
